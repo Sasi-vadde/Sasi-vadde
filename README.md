@@ -1,54 +1,40 @@
-<h1 align="center">Hi 👋, I'm Sasikanth Vadde</h1>
+# Sasikanth Vadde
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Passionate+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Exploring+Energy+Systems+%E2%9A%A1;Building+with+Python%2C+C%2B%2B%2C+TensorFlow;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
-</p>
+**Simulation Engineer, Alkaline Water Electrolysis and Energy Systems** · Stuttgart, Germany
 
----
+Chemical and Energy Engineer (M.Sc., Otto von Guericke University Magdeburg, grade 1.9) working where electrochemistry meets system simulation. Two years at the DLR Institute of Engineering Thermodynamics in Stuttgart, from intern to Research Associate, where I contributed to transient Dymola/Modelica models of alkaline electrolysis cells and stacks, their validation against test-rig data, and OpenFOAM thermal studies. Looking for simulation and modelling roles in hydrogen and energy systems in Germany.
 
-- 🔭 I'm currently working on **Mathematical Modelling of High Pressure Alkaline Electrolysis**
-- 🌱 I'm currently learning **Fortran & TensorFlow**
-- 💡 Interested in **simulation, scientific computing & ML**
-- ✍️ I write on [Quora](https://www.quora.com/profile/Sasikanth-Vadde)
-- 📫 Reach me via **[LinkedIn](https://www.linkedin.com/in/sasikanth-vadde)**
+### Focus
 
----
+- Physics-based modelling of electrochemical systems (Dymola/Modelica): two-phase flow, gas crossover, thermal behaviour
+- Model validation against measured data and root-cause analysis of model-vs-measurement mismatches
+- CFD and conjugate heat transfer (OpenFOAM, STAR-CCM+)
+- Process control: PID and multi-loop control for fluctuating renewable load
+- Physics-informed machine learning for battery ageing (PyTorch)
 
-### 📊 GitHub Stats
+### Selected projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sasi-vadde&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sasi-vadde&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+| Project | What it is |
+|---|---|
+| [Batch_Mixing](https://github.com/Sasi-vadde/Batch_Mixing) | Batch mixing controller in OpenPLC (IEC 61131-3 Structured Text + Ladder): fill, mix, heat, discharge sequence with safety interlocks and analog level scaling |
+| [PID-Tuning](https://github.com/Sasi-vadde/PID-Tuning) | Multivariable control of the Newell–Lee evaporator: PID tuning in MATLAB/Simulink with Ziegler–Nichols, Cohen–Coon and IMC (course project report, team of two) |
+| [Projects](https://github.com/Sasi-vadde/Projects) | University coursework: ML in chemical engineering (vapour-pressure prediction with RDKit descriptors and Gaussian processes, hybrid CSTR model, PyTorch) and an OpenFOAM natural-convection study |
+| [Portfolio](https://sasi-vadde.github.io/portfolio) | Thesis, PINN battery state-of-health model, ISCC exergoeconomic optimisation, CFD studies and full experience |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sasi-vadde&theme=tokyonight&hide_border=true" />
-</p>
+### Tech stack
 
----
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,matlab,cpp,git)](https://skillicons.dev)
 
-### 🛠️ Languages & Tools
+- **Simulation:** Dymola/Modelica · MATLAB/Simulink · OpenFOAM · STAR-CCM+ · COMSOL Multiphysics · Aspen Plus · DWSIM · openLCA
+- **Python:** NumPy · Pandas · Matplotlib · scikit-learn · PyTorch · OpenCV · RDKit
+- **Control:** PID and multi-loop control · PLC (IEC 61131-3, Structured Text, Ladder) · OpenPLC
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,tensorflow,pytorch,matlab,docker,git,linux,blender" />
-</p>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=sklearn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-</p>
+### Languages
 
----
+German (B1, working toward B2) · English (C1/C2) · Telugu (native) · Hindi (native-level)
 
-### 🤝 Connect with me
+### Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sasikanth-vadde" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Sasikanth_Vadde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.quora.com/profile/Sasikanth-Vadde" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-Sasikanth_Vadde-B92B27?style=for-the-badge&logo=quora&logoColor=white"/>
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-sasi--vadde.github.io-222222?style=flat-square&logo=githubpages&logoColor=white)](https://sasi-vadde.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sasikanth--vadde-0A66C2?style=flat-square)](https://www.linkedin.com/in/sasikanth-vadde)
+[![Email](https://img.shields.io/badge/Email-vaddesasikanth%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vaddesasikanth@gmail.com)
